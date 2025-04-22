@@ -72,7 +72,7 @@ const About: React.FC = () => {
           <div className="relative">
             <div className="relative z-10 rounded-lg overflow-hidden shadow-xl transform transition-transform duration-500 hover:scale-105">
               <img 
-                src="https://images.pexels.com/photos/5583111/pexels-photo-5583111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
+                src="https://images.nature.com/lw1200/magazine-assets/d41586-019-00653-5/d41586-019-00653-5_16459152.jpg" 
                 alt="About Me" 
                 className="w-full h-auto object-cover"
               />
