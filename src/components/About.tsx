@@ -14,10 +14,10 @@ const About: React.FC = () => {
               Hello! I'm <span className="font-semibold text-blue-600 dark:text-blue-400">Nihit Baruah</span>, a passionate Web developer with a keen eye for creating beautiful and functional web experiences. With over 1 years of experience in the industry, I specialize in building responsive and intuitive user interfaces.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-              My journey in web development began during my college years when I discovered my love for creating things that live on the internet. Since then, I've been continuously learning and improving my skills to keep up with the ever-evolving web technologies.
+            My journey in web development began during my college years, where I discovered the joy of creating things that live on the internet. Since then, I’ve been on a continuous learning path, sharpening my skills to stay ahead in the ever-evolving world of web technologies.
             </p>
             <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed">
-              When I'm not coding, you can find me hiking in the mountains, reading sci-fi novels, or experimenting with new recipes in the kitchen. I believe that diverse experiences contribute to creative problem-solving in my professional work.
+            When I’m not deep in code, you’ll likely find me traveling to new places or experimenting with new recipes in the kitchen. I truly believe that diverse experiences outside of tech fuel creativity and help me solve problems with a fresh perspective.
             </p>
             
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 mt-8">
