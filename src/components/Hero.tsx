@@ -52,8 +52,7 @@ const Hero: React.FC = () => {
               <span className="text-3xl md:text-4xl lg:text-5xl">Web Developer</span>
             </h1>
             <p className="text-lg text-gray-700 dark:text-gray-300 max-w-lg">
-              I create beautiful, functional, and responsive web experiences with modern technologies.
-              Let's build something amazing together.
+            Full-stack web developer & 23-year-old CSE student passionate about solving real-world problems. Skilled in React, Next.js, Node.js, Docker, CI/CD, and AWS. Detail-driven, cloud-savvy, and a team player who loves building clean, scalable solutions.
             </p>
             <div className="flex space-x-4">
               <a
