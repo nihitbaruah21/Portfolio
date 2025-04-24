@@ -20,7 +20,7 @@ const Projects: React.FC = () => {
       title: 'Login Page',
       description: 'A Basic User friendly login & registration page for CIT Kokrajhar.',
       image: 'https://images.pexels.com/photos/34577/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-      tags: ['React', 'Redux', 'Stripe', 'Tailwind CSS'],
+      tags: ['HTML', 'CSS', 'JavaScript'],
       liveUrl: 'https://nihitbaruah21.github.io/citklogin/',
       githubUrl: 'https://github.com/nihitbaruah21/citklogin.git',
       category: 'Web App',
