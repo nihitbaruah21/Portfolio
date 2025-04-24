@@ -27,12 +27,12 @@ const Projects: React.FC = () => {
     },
     {
       id: 2,
-      title: 'Task Management Dashboard',
-      description: 'A productivity application with drag-and-drop functionality, user authentication, and data visualization.',
-      image: 'https://images.pexels.com/photos/7376/startup-photos.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-      tags: ['React', 'TypeScript', 'Firebase', 'Chart.js'],
+      title: 'Gym-Management',
+      description: 'Developing a web application that helps to manage the Institute gym using HTML, CSS, REACT.JS.',
+      image: 'https://cdn.prod.website-files.com/607a8e5cd0dacf7963f4f13b/60a2599b7d0b8220321981b5_graham-mansfield-y7ywDXWJ-JU-unsplash.jpeg',
+      tags: ['HTML','React', 'TypeScript', 'Firebase', 'Chart.js'],
       liveUrl: 'https://example.com/project2',
-      githubUrl: 'https://github.com/yourusername/project2',
+      githubUrl: 'https://github.com/nihitbaruah21/Gymnasium-CITK-GYM.git',
       category: 'Web App',
     },
     {
