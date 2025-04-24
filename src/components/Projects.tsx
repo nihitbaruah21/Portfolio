@@ -45,39 +45,9 @@ const Projects: React.FC = () => {
       githubUrl: 'https://github.com/yourusername/project3',
       category: 'Web App',
     },
-    {
-      id: 4,
-      title: 'Portfolio Website',
-      description: 'A modern and responsive portfolio website showcasing projects and skills with dark/light mode.',
-      image: 'https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-      tags: ['React', 'TypeScript', 'Tailwind CSS', 'Framer Motion'],
-      liveUrl: 'https://example.com/project4',
-      githubUrl: 'https://github.com/yourusername/project4',
-      category: 'UI/UX',
-    },
-    {
-      id: 5,
-      title: 'Recipe Finder App',
-      description: 'A mobile-first web application that allows users to search for recipes based on ingredients they have.',
-      image: 'https://images.pexels.com/photos/1640774/pexels-photo-1640774.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-      tags: ['React Native', 'Expo', 'Redux', 'API'],
-      liveUrl: 'https://example.com/project5',
-      githubUrl: 'https://github.com/yourusername/project5',
-      category: 'Mobile App',
-    },
-    {
-      id: 6,
-      title: 'Blog Platform',
-      description: 'A full-stack blog platform with user authentication, rich text editing, and comment functionality.',
-      image: 'https://images.pexels.com/photos/261579/pexels-photo-261579.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
-      tags: ['Next.js', 'MongoDB', 'Node.js', 'OAuth'],
-      liveUrl: 'https://example.com/project6',
-      githubUrl: 'https://github.com/yourusername/project6',
-      category: 'Full Stack',
-    },
   ];
 
-  const categories = ['All', 'Web App', 'Mobile App', 'UI/UX', 'Full Stack'];
+  const categories = ['All', 'Web App', 'UI/UX', 'Full Stack'];
   const [activeCategory, setActiveCategory] = useState('All');
 
   const filteredProjects = activeCategory === 'All'
@@ -165,7 +135,7 @@ const Projects: React.FC = () => {
         
         <div className="mt-12 text-center">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/nihitbaruah21"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-200 hover:bg-gray-200 dark:hover:bg-gray-600 rounded-md transition-colors duration-300"
