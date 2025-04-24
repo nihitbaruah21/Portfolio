@@ -17,12 +17,12 @@ const Projects: React.FC = () => {
   const projects: Project[] = [
     {
       id: 1,
-      title: 'E-Commerce Website',
-      description: 'A fully responsive e-commerce platform built with React, Redux, and Stripe integration for payments.',
+      title: 'Login Page',
+      description: 'A Basic User friendly login & registration page for CIT Kokrajhar.',
       image: 'https://images.pexels.com/photos/34577/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
       tags: ['React', 'Redux', 'Stripe', 'Tailwind CSS'],
-      liveUrl: 'https://example.com/project1',
-      githubUrl: 'https://github.com/yourusername/project1',
+      liveUrl: 'https://nihitbaruah21.github.io/citklogin/',
+      githubUrl: 'https://github.com/nihitbaruah21/citklogin.git',
       category: 'Web App',
     },
     {
