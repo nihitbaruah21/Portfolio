@@ -37,9 +37,9 @@ const Projects: React.FC = () => {
     },
     {
       id: 3,
-      title: 'Weather Forecast App',
-      description: 'A weather application that provides real-time forecasts using OpenWeatherMap API with geolocation support.',
-      image: 'https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2',
+      title: 'AI-Powered Emotion Tracker',
+      description: 'Developing an AI-driven emotion tracker that crafts personalized stories and fosters community positivity through rewards.',
+      image: 'https://www-cdn.morphcast.com/wp-content/uploads/2024/01/Donna-scansionata.webp',
       tags: ['JavaScript', 'API Integration', 'CSS3', 'Responsive'],
       liveUrl: 'https://example.com/project3',
       githubUrl: 'https://github.com/yourusername/project3',
