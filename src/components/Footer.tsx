@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
           <div className="mb-6 md:mb-0">
             <h2 className="text-2xl font-bold">Portfolio</h2>
             <p className="text-gray-400 mt-2 max-w-md">
-              A frontend developer passionate about creating beautiful and functional web experiences.
+              A Full-Stack developer passionate about creating beautiful and functional web experiences. Feel free to connect me at nihitbaruah@gmail.com
             </p>
           </div>
           
@@ -51,7 +51,7 @@ const Footer: React.FC = () => {
             </a>
             </div>
             <p className="text-gray-400 flex items-center">
-              © {currentYear} Your Name. All rights reserved.
+              © {currentYear} Nihit Baruah. All rights reserved.
             </p>
             <p className="text-gray-500 text-sm mt-2 flex items-center">
               Made with <Heart size={14} className="mx-1 text-red-500" /> using React & Tailwind CSS

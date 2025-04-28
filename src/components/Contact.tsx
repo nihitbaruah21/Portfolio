@@ -77,21 +77,6 @@ const Contact: React.FC = () => {
               
               <div className="flex items-start">
                 <div className="bg-blue-100 dark:bg-blue-900 p-3 rounded-full mr-4">
-                  <Phone className="w-6 h-6 text-blue-600 dark:text-blue-400" />
-                </div>
-                <div>
-                  <h4 className="font-medium text-gray-900 dark:text-gray-100">Phone</h4>
-                  <a 
-                    href="8638562273" 
-                    className="text-blue-600 dark:text-blue-400 hover:underline"
-                  >
-                    8638562273
-                  </a>
-                </div>
-              </div>
-              
-              <div className="flex items-start">
-                <div className="bg-blue-100 dark:bg-blue-900 p-3 rounded-full mr-4">
                   <MapPin className="w-6 h-6 text-blue-600 dark:text-blue-400" />
                 </div>
                 <div>
