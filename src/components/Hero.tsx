@@ -72,7 +72,7 @@ const Hero: React.FC = () => {
             </div>
             <div className="flex space-x-4 pt-4">
               <a
-                href="https://github.com/yourusername"
+                href="https://github.com/nihitbaruah21"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition-colors duration-200"
