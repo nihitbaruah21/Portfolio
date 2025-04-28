@@ -26,39 +26,12 @@ const Education: React.FC = () => {
     {
       id: 2,
       title: 'Frontend Developer Intern',
-      organization: 'Tech Innovations Inc.',
-      date: 'Summer 2017',
-      location: 'San Francisco, CA',
-      description: 'Developed and maintained client websites. Collaborated with designers to implement responsive designs. Improved website performance.',
+      organization: 'Amtron',
+      date: 'Winter 2024',
+      location: 'Guwahati, Assam',
+      description: 'Developed and maintained websites. Collaborated with designers to implement responsive designs. Improved website performance.',
       icon: 'work',
-    },
-    {
-      id: 3,
-      title: 'Junior Frontend Developer',
-      organization: 'Digital Solutions',
-      date: '2018 - 2020',
-      location: 'San Francisco, CA',
-      description: 'Built responsive web applications using React.js. Worked with RESTful APIs and improved frontend performance. Collaborated in an agile team environment.',
-      icon: 'work',
-    },
-    {
-      id: 4,
-      title: 'Advanced React Certification',
-      organization: 'Frontend Masters',
-      date: '2019',
-      location: 'Online',
-      description: 'Completed an intensive course on advanced React patterns, state management, and performance optimization techniques.',
-      icon: 'education',
-    },
-    {
-      id: 5,
-      title: 'Senior Frontend Developer',
-      organization: 'Tech Giants Co.',
-      date: '2020 - Present',
-      location: 'San Francisco, CA',
-      description: 'Lead frontend development for multiple projects. Mentored junior developers. Implemented best practices for code quality and performance.',
-      icon: 'work',
-    },
+    }
   ];
 
   return (
