@@ -1,5 +1,5 @@
 import React, { useEffect, useRef } from 'react';
-import { ArrowDownCircle, Github as GitHub, Linkedin, Twitter } from 'lucide-react';
+import { ArrowDownCircle, Github as GitHub, Instagram, Linkedin, Twitter } from 'lucide-react';
 
 const Hero: React.FC = () => {
   const textRef = useRef<HTMLHeadingElement>(null);
@@ -88,12 +88,12 @@ const Hero: React.FC = () => {
                 <Linkedin size={24} />
               </a>
               <a
-                href="https://twitter.com/yourusername"
+                href="https://www.instagram.com/nihitt_/"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="text-gray-700 hover:text-blue-600 dark:text-gray-300 dark:hover:text-blue-400 transition-colors duration-200"
+                className="text-gray-700 hover:text-pink-500 dark:text-gray-300 dark:hover:text-pink-400 transition-colors duration-200"
               >
-                <Twitter size={24} />
+               <Instagram size={24} />
               </a>
             </div>
           </div>
