@@ -26,6 +26,7 @@ const Skills: React.FC = () => {
     'Attention to Detail',
     'Critical Thinking',
     'Creativity',
+    'Content Writing',
   ];
 
   return (
