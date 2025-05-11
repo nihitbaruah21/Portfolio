@@ -36,9 +36,9 @@ const Education: React.FC = () => {
       id: 3,
       title: 'Content Writing Intern',
       organization: 'TheOpinionated Indian',
-      date: 'Summer 2024 -  Present',
+      date: 'Summer 2024 - Present',
       location: 'Remote',
-      description: 'I'm writing and editing engaging, SEO-optimized content that aligns with brand voice and connects effectively with the target audience.',
+      description: "I'm writing and editing engaging, SEO-optimized content that aligns with brand voice and connects effectively with the target audience.",
       icon: 'work',
     }
   ];
