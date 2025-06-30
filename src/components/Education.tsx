@@ -18,9 +18,9 @@ const Education: React.FC = () => {
       id: 1,
       title: '3rd Year B-Tech in Computer Science',
       organization: 'Central Institute Of Technology Kokrajhar',
-      date: '2022 - 2026',
+      date: '2022 - Present',
       location: 'Kokrajhar, BTR Assam',
-      description: 'I’m a 3rd-year CSE student with a never-give-up mindset, eager to solve problems and build innovative solutions.',
+      description: 'I’m a 4th-year CSE student with a never-give-up mindset, eager to solve problems and build innovative solutions.',
       icon: 'education',
     },
     {
