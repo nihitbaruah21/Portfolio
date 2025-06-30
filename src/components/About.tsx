@@ -27,7 +27,7 @@ const About: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-900 dark:text-gray-100">Experience</h4>
-                  <p className="text-gray-600 dark:text-gray-400">1 Years</p>
+                  <p className="text-gray-600 dark:text-gray-400">2 Years</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">
@@ -36,7 +36,7 @@ const About: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-900 dark:text-gray-100">Education</h4>
-                  <p className="text-gray-600 dark:text-gray-400">3rd Year B-Tech in Computer Science</p>
+                  <p className="text-gray-600 dark:text-gray-400">4th Year B-Tech in Computer Science</p>
                 </div>
               </div>
               <div className="flex items-center space-x-3">

@@ -15,6 +15,7 @@ const Skills: React.FC = () => {
     { name: 'Responsive Design', level: 95 },
     { name: 'UI/UX Design', level: 82 },
     { name: 'RESTful APIs', level: 80 },
+    { name: 'C#', level: 70 },
   ];
 
   const softSkills = [
