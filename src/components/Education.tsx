@@ -40,6 +40,15 @@ const Education: React.FC = () => {
       location: 'Remote',
       description: "I'm writing and editing engaging, SEO-optimized content that aligns with brand voice and connects effectively with the target audience.",
       icon: 'work',
+    },
+    {
+      id: 4,
+      title: 'Software Development Intern',
+      organization: 'Numaligarh Refinery Limited',
+      date: 'Summer 2025',
+      location: 'On-Site',
+      description: "I explored NRL’s enterprise software, studied its workflow, prepared a detailed SRS, and gained hands-on experience with C# and Microsoft SQL Server.",
+      icon: 'work',
     }
   ];
 
