@@ -100,7 +100,7 @@ const Hero: React.FC = () => {
           <div className="hidden lg:block">
             <div className="relative mx-auto w-80 h-80 rounded-full bg-blue-600 dark:bg-blue-500 overflow-hidden shadow-xl opacity-0 animate-fade-in animation-delay-300">
               <img 
-                src="https://media.licdn.com/dms/image/v2/D5603AQHNLaUAKKIQ3Q/profile-displayphoto-shrink_800_800/B56ZaXUHzEHUAc-/0/1746295360709?e=1752710400&v=beta&t=Mt24thn3Ls8lqzeeOfLEDaWH-_SOwGKsCsxRBJJ7JSg" 
+                src="src/assets/IMG_4328.JPG" 
                 alt="Profile" 
                 className="w-full h-full object-cover"
               />
