@@ -62,13 +62,14 @@ const Hero: React.FC = () => {
               >
                 Get in touch
               </a>
-              <a
-                href="#projects"
-                onClick={(e) => { e.preventDefault(); document.querySelector('#projects')?.scrollIntoView({ behavior: 'smooth' }); }}
-                className="px-6 py-3 bg-white dark:bg-gray-800 text-blue-600 dark:text-blue-400 border border-blue-600 dark:border-blue-400 rounded-md transition-colors duration-300 hover:bg-blue-50 dark:hover:bg-gray-700"
+              <a 
+              href="/Resume.pdf"
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="px-6 py-3 bg-white dark:bg-gray-800 text-blue-600 dark:text-blue-400 border border-blue-600 dark:border-blue-400 rounded-md transition-colors duration-300 hover:bg-blue-50 dark:hover:bg-gray-700 hover:pointer"
               >
-                View projects
-              </a>
+              View Resume
+            </a>
             </div>
             <div className="flex space-x-4 pt-4">
               <a

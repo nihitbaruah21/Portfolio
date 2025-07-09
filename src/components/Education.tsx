@@ -16,7 +16,7 @@ const Education: React.FC = () => {
   const timelineItems: TimelineItem[] = [
     {
       id: 1,
-      title: '3rd Year B-Tech in Computer Science',
+      title: 'Final Year B-Tech in Computer Science',
       organization: 'Central Institute Of Technology Kokrajhar',
       date: '2022 - Present',
       location: 'Kokrajhar, BTR Assam',

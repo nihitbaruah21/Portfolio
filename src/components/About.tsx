@@ -58,18 +58,6 @@ const About: React.FC = () => {
                 </div>
               </div>
             </div>
-            
-            <div className="mt-8">
-            <a 
-              href="/Resume.pdf"
-              target="_blank" 
-              rel="noopener noreferrer"
-              className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-md transition-colors duration-300 shadow-md hover:shadow-lg"
-            >
-              View Resume
-            </a>
-
-            </div>
           </div>
           
           <div className="relative">
