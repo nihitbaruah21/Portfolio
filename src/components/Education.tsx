@@ -49,6 +49,15 @@ const Education: React.FC = () => {
       location: 'On-Site',
       description: "I explored NRL’s enterprise software, studied its workflow, prepared a detailed SRS, and gained hands-on experience with C# and Microsoft SQL Server.",
       icon: 'work',
+    },
+    {
+      id: 5,
+      title: 'Work Based Learning',
+      organization: 'NIELIT Kokrajhar',
+      date: 'February 2026 - Present',
+      location: 'On-Site',
+      description: "I am currently undergoing a 6-month Work-Based Learning program at NIELIT Kokrajhar, where I am working on an IoT-based project while gaining hands-on experience in real-time system development and database integration.",
+      icon: 'work',
     }
   ];
 
